@@ -4,13 +4,14 @@
 **Requisites:** I have used the **OS** and **Shutil** modules<br><br>
 
 
-| Module| Description|
+| Module| Description |
 | --- | --- |
 | OS | For the intracting with the system files. |
 | Shutil | For move the files into the seprated folders. |<br><br>
 
 **Problem I faced:** When I inserted after Items **'\'** notebook not longer consider as a string so... I have used **"/"**<br><br>
-| :--- | --- |
+| | Path |
+| --- | --- |
 | System Copy Path | "C:\Users\shaik\OneDrive\Desktop\Courses\Data_Science\Alex_The_Analyst\Python\File_Sorter\Items"|
 | Required | "C:/Users/shaik/OneDrive/Desktop/Courses/Data_Science/Alex_The_Analyst/Python/File_Sorter/Items/" |<br><br>
 
