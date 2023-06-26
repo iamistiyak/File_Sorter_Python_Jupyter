@@ -4,7 +4,8 @@
 **Requisites:** I have used the **OS** and **Shutil** modules<br><br>
 
 
-| | |
+| Module| Description|
+| --- | --- |
 | OS | For the intracting with the system files. |
 | Shutil | For move the files into the seprated folders. |<br><br>
 
