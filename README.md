@@ -23,7 +23,7 @@ Here I am attaching the images so, We can understand well.
 | 02.png | I have created 3 different folders to save the 3 different files. |
 | 03.png | All files are moved into the belonging folders. |<br><br>
 
-<img src="![01](https://github.com/iamistiyak/File_Sorter_Python_Jupyter/assets/86108816/502adf97-4293-4dbe-ab01-57df3cbff2ec)" width=400, height=400>
+<img src="https://user-images.githubusercontent.com/86108816/248840682-502adf97-4293-4dbe-ab01-57df3cbff2ec.png" width=400, height=400>
 </img>
 
 ![01](https://github.com/iamistiyak/File_Sorter_Python_Jupyter/assets/86108816/502adf97-4293-4dbe-ab01-57df3cbff2ec) <br><br><br>
