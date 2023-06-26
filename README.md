@@ -17,6 +17,8 @@
 
 Here I am attaching the images so, We can understand well.
 
+| Image | Description |
+| --- | --- |
 | 01.png | Excel, Text and Images are at one folder |
 | 02.png | I have created 3 different folders to save the 3 different files. |
 | 03.png | All files are moved into the belonging folders. |<br><br>
