@@ -3,8 +3,8 @@
 # So we can reduce the messed up in a folder.<br><br>
 **Requisites:** I have used the **OS** and **Shutil** modules<br><br>
 
+
 | | |
-| :--- | --- |
 | OS | For the intracting with the system files. |
 | Shutil | For move the files into the seprated folders. |<br><br>
 
